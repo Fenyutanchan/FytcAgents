@@ -5,6 +5,9 @@
 
 module FytcAgents
 
-greet() = println("Hello World!")
+using HTTP
+using JSON
+
+include("clients/client.jl")
 
 end # module FytcAgents

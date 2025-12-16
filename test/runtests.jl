@@ -4,5 +4,8 @@
 # https://opensource.org/licenses/MIT
 
 using FytcAgents
+using Test
 
-FytcAgents.greet()
+isfile("secrets.jl") && include("secrets.jl")
+
+include("POE_test.jl")

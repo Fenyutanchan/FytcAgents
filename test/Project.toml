@@ -1,5 +1,6 @@
 [deps]
 FytcAgents = "3ae75f87-622e-4ae6-a518-ea7d8cde4920"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [sources]
 FytcAgents = {path = ".."}
