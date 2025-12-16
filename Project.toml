@@ -1,0 +1,7 @@
+name = "FytcAgents"
+uuid = "3ae75f87-622e-4ae6-a518-ea7d8cde4920"
+version = "0.1.0"
+authors = ["Fenyutanchan <fenyutanchan@gmail.com>"]
+
+[workspace]
+projects = ["test"]
